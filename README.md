@@ -364,47 +364,9 @@ if (!emailRegex.test(email)) {
 ---
 
 ## Screenshots
-
-### 1. Initial Form State
-![Initial Form](screenshots/initial-form.png)
-*Clean contact form with gradient background and modern design*
-
-### 2. Validation Errors
-![Validation Errors](screenshots/validation-errors.png)
-*Error messages displayed below each invalid field with red borders*
-
-### 3. Empty Field Validation
-![Empty Fields](screenshots/empty-fields.png)
-*Error messages when trying to submit with empty fields*
-
-### 4. Invalid Email Format
-![Invalid Email](screenshots/invalid-email.png)
-*Email validation error showing regex-based format checking*
-
-### 5. Invalid Name with Special Characters
-![Invalid Name](screenshots/invalid-name.png)
-*Name field validation rejecting special characters and numbers*
-
-### 6. Message Length Validation
-![Message Length](screenshots/message-length.png)
-*Error when message is too short (less than 10 characters)*
-
-### 7. Successful Validation
-![Success State](screenshots/success-state.png)
-*All fields validated successfully with green borders*
-
-### 8. Success Message
-![Success Message](screenshots/success-message.png)
-*Success message displayed after valid form submission*
-
-### 9. Real-time Validation
-![Real-time Validation](screenshots/realtime-validation.png)
-*Live validation feedback as user types*
-
-### 10. Mobile Responsive View
-![Mobile View](screenshots/mobile-view.png)
-*Form adapts beautifully to mobile screens*
+<img width="1510" height="946" alt="Screenshot 2025-10-28 at 12 13 28 PM" src="https://github.com/user-attachments/assets/1398ad57-4bad-4722-8156-e1ead17f9b62" />
+<img width="1512" height="982" alt="Screenshot 2025-10-28 at 12 13 49 PM" src="https://github.com/user-attachments/assets/fd0956eb-a421-49de-b804-fd0a21d62cca" />
+<img width="1512" height="982" alt="Screenshot 2025-10-28 at 12 14 15 PM" src="https://github.com/user-attachments/assets/b2389a30-fec6-424f-bbb8-7a25e4cd4722" />
 
 ---
 
-**Note:** To add screenshots, create a `screenshots` folder in the project directory and add the corresponding images.
