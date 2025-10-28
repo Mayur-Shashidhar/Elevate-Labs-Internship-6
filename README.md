@@ -360,3 +360,51 @@ if (!emailRegex.test(email)) {
 | **JavaScript required** | No | Yes |
 
 **Best approach**: Combine both - HTML5 for basic validation and better accessibility, JavaScript for enhanced UX and complex rules.
+
+---
+
+## Screenshots
+
+### 1. Initial Form State
+![Initial Form](screenshots/initial-form.png)
+*Clean contact form with gradient background and modern design*
+
+### 2. Validation Errors
+![Validation Errors](screenshots/validation-errors.png)
+*Error messages displayed below each invalid field with red borders*
+
+### 3. Empty Field Validation
+![Empty Fields](screenshots/empty-fields.png)
+*Error messages when trying to submit with empty fields*
+
+### 4. Invalid Email Format
+![Invalid Email](screenshots/invalid-email.png)
+*Email validation error showing regex-based format checking*
+
+### 5. Invalid Name with Special Characters
+![Invalid Name](screenshots/invalid-name.png)
+*Name field validation rejecting special characters and numbers*
+
+### 6. Message Length Validation
+![Message Length](screenshots/message-length.png)
+*Error when message is too short (less than 10 characters)*
+
+### 7. Successful Validation
+![Success State](screenshots/success-state.png)
+*All fields validated successfully with green borders*
+
+### 8. Success Message
+![Success Message](screenshots/success-message.png)
+*Success message displayed after valid form submission*
+
+### 9. Real-time Validation
+![Real-time Validation](screenshots/realtime-validation.png)
+*Live validation feedback as user types*
+
+### 10. Mobile Responsive View
+![Mobile View](screenshots/mobile-view.png)
+*Form adapts beautifully to mobile screens*
+
+---
+
+**Note:** To add screenshots, create a `screenshots` folder in the project directory and add the corresponding images.
